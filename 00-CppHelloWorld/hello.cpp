@@ -1,6 +1,7 @@
 /* Hello World
-Sol Panozo 
-20200423*/
+Sol Panozo
+202004
+*/;
 
 #include <iostream>
 int main() {
